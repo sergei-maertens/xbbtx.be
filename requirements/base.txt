@@ -1,0 +1,12 @@
+Django==1.7.1
+django-getenv
+Pillow
+django_compressor
+# raven
+psycopg2
+django-autoslug
+pytz
+# python-dateutil
+django-rosetta
+formulation
+

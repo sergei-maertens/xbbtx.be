@@ -1,0 +1,5 @@
+-r base.txt
+
+factory_boy
+django-webtest
+WebTest
